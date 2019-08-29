@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB-SQLITE-TUTE</string>
+    <string name="Selectbtn">Select ALL</string>
+    <string name="Addbtn">ADD</string>
+    <string name="deletebtn">DELETE</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="updatebtn">UPDATE</string>
+</resources>
